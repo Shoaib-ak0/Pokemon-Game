@@ -1,2 +1,2 @@
 # Pokemon-Game
-C# Text-based Pokemon Game
+C++ Text-based Pokemon Game
